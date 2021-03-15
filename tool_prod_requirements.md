@@ -17,8 +17,8 @@ Kids are **stupid**. That's why they go to school, to be less so. One important 
   * Which operators can be utilized: **(+,-,*,/)**
     * expected groupings: **(+,-) AND (*,/)**
   * Whether the result of an exercise can traverse the:
-    * 10s
-    * 100s
+    * 10s (example: 3+9, 15-6, 98-9,  124+8)
+    * 100s 
       * both 100s & 10s in the same exercise (i.e. 242+99)
       * or just 100s (i.e. 241 + 100)
     * The maximum times tables to be used in multiply and divide operations (max 10, or max 15 for example)
